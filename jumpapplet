@@ -275,3 +275,5 @@ def create_actions():
 if __name__=='__main__':
     init()
     gtk.main()
+
+# vim:expandtab:tabstop=4

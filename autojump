@@ -129,3 +129,5 @@ else:
             print "\n".join(("%s__%d__%s" % (pattern,n+1,r) for n,r in enumerate(results[:8])))
         else: 
             if results : print results[0]
+
+# vim:expandtab:tabstop=4
